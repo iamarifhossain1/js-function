@@ -1,3 +1,21 @@
+function fanOffKor () {
+    console.log('Bosha theke uthe darao');
+    console.log('Walk toward the switch');
+    console.log('Click the switch to off of the fan');   
+}
+
+fanOffKor();
+
+function brushTeeth () {
+    console.log('Pick up the brush');
+    console.log('Add paste');
+    console.log('Now brush');
+    
+}
+
+brushTeeth();
+
+
 function hello () {
     console.log("I am just a Function");
 }
