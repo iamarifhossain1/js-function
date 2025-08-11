@@ -11,3 +11,4 @@ function sumOfNumber(numbers) {
 const numbs = [10, 15, 20, 25, 30];
 const sum = sumOfNumber(numbs);
 console.log('Sum of Number is:', sum);
+
